@@ -1,0 +1,11 @@
+Q1> Git is a popular version control.
+Q2> Version control, also known as source control, is the practice of tracking and managing changes to software code.
+Q3> Github is a popular Git server which is basically a platform where we can store and track our code base.
+Q4> Github, Gitlab are some of the example.
+Q5> Centralised Version Control System and Distributed Version Control System.
+Q6> Using GIT we can
+  *collaborate with other developers.
+  *share our code base with other developers.
+  *track and manage our code base.
+Q7>GIT repository is the place where all our code is stored.
+Q8> using git init we can initilize a repo in git.
