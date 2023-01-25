@@ -1,0 +1,10 @@
+Q1> Using the command git version (or git -version) we can check if git is available in our system or not.
+Q2> Using the command git init we can initialize the current directory as a new repository.
+Q3> git config global.name ""
+    git config global.gmail ""
+Q4> Using the command git add . we can add all the files in the working area to the staging area.
+Q5> Using the command git rm --cached <filename> we can remove a file from staging area.
+Q6> Using the command git commit -m "message" we can commit.
+Q7> Using the command git restore we can send our changes to remote repository.
+Q8> Git clone is used to copy the entire project on your local repository
+    However git pull is used to bring some specific files from remote repository to local repository.
