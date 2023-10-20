@@ -3,4 +3,13 @@ Dynamically typed programming languages are those languages in which we don't ne
 
 Q2> Variable is the name of the memory location in java program
 
-Q3> 
+Q3> Q1> What is HTML, and what does it stand for?
+Answer: HTML stands for HyperText Markup Language. It is the standard markup language for creating web pages. HTML is used to structure content on the web and is essential for web development.
+
+Q2>  What is the purpose of HTML tags and attributes?
+
+Answer: HTML tags are used to define elements on a web page, while attributes provide additional information about those elements. Tags and attributes work together to structure and style the content.
+
+Q3> What is the difference between HTML and XHTML?
+
+Answer: XHTML is a stricter, more consistent version of HTML. It follows XML rules and requires well-formed documents. HTML, on the other hand, is more forgiving of syntax errors. XHTML uses self-closing tags, requires lowercase tag names, and enforces strict nesting.
